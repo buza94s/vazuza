@@ -1,0 +1,27 @@
+body {
+    max-width: 900px;
+    margin: 0 auto !important;
+    border: 2px solid #b4b1ac;
+    border-radius: 4px;
+    height: unset !important;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+video {
+    width: 30%;
+}
+
+@media screen and (max-width: 900px) {
+    video {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
