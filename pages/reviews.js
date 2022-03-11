@@ -3,9 +3,9 @@ import Img from '../components/ui/Img';
 
 import styles from '../styles/main.module.css';
 
-import img1 from '../public/reviews/1.png';
-import img2 from '../public/reviews/2.png';
-import img3 from '../public/reviews/3.png';
+import img1 from '../public/reviews/1.PNG';
+import img2 from '../public/reviews/2.PNG';
+import img3 from '../public/reviews/3.PNG';
 
 const Reviews = () => {
     return (
